@@ -139,3 +139,4 @@ drone exec --build-event push --commit-sha latest
 ```bash
 EXAMPLE_SECRET='this is a local secret' drone exec --build-event deployment --build-target local --commit-sha latest
 ```
+
